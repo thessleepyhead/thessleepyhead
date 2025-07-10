@@ -1,6 +1,6 @@
                                                       👋 Hi, I’m Archana Mishra
 # 💫 About Me:
-👀 Interested in Development/Coding, currently a final year student <br>🌱 Currently working on Full-Stack Development / React <br>✨ Programming Language: C++, Python, HTML, CSS and Java Script  <br>👯 Practicing Frontend Web Development <br>😄 Pronouns: She/Her <br>📫 How to reach me : Bicycle, train, bus, anything of your convenience.
+👀 Interested in Development/Coding, currently an ASE at Accenture <br>🌱 Working on Full-Stack Development Oracle SOA Suite and Oracle Integration Cloud (OIC) <br>✨ Programming Language: C++, Python, HTML, CSS and Java Script  <br>👯 Practicing Full Stack Development in MERN stack <br>😄 Pronouns: She/Her <br>📫 How to reach me : Bicycle, train, bus, anything of your convenience.
 
 
 ## 🌐 Socials:
